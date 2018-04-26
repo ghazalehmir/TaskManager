@@ -1,8 +1,12 @@
 - [ ] Thesis
 
-  - [ ] Chapter 1: Introduction
+  - [x] Chapter 1: Introduction
   - [ ] Chapter 2: Literature review
-  - [ ] Chapter 3: Materials and Experiments
+    - [x] Paper 1
+    - [x] Paper 2
+    - [ ] Paper 3
+    
+  - [x] Chapter 3: Materials and Experiments
   - [ ] Chapter 4: Result and Discussion
   
 - [ ] Paper1
@@ -17,8 +21,8 @@
   - [ ] Submit
   - [ ] Edit revision comments
 
-- [ ] Paper2
 
+- [ ] Paper2
   - [ ] Summary
   - [ ] Introduction
   - [ ] Materials
